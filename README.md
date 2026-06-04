@@ -1,6 +1,6 @@
  ## Hi there, I'm Andrea 👋 
  
-I am a computational chemist passionate about Computer-Aided Drug Design (CADD). I hold a a BSc in Chemistry and a MSc in  Chemoinformatics, and I am currently a PhD student in Chemistry at [Università degli Studi di Milano](https://www.unimi.it/en) 
+I am a computational chemist passionate about Computer-Aided Drug Design (CADD). I hold a BSc in Chemistry and a MSc in  Chemoinformatics, and I am currently a PhD student in Chemistry at [Università degli Studi di Milano](https://www.unimi.it/en) 
 
  ### 🔬 My Core interests
  
