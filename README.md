@@ -13,7 +13,7 @@ I am a computational chemist passionate about Computer-Aided Drug Design (CADD).
  ### 💻 Languages & Tools I use
  
  Here are the main technologies and packages I use in my day-to-day research: 
- * **CADD:** Schrödinger suite (Maestro, Glide, Macromodel,Desmond) 
+ * **CADD:** Schrödinger suite (Maestro, Glide, Macromodel, Desmond) 
  * **Programming:** Python, Bash 
  * **Data Science:** Pandas, NumPy, Jupyter, Matplotlib/Seaborn, scikit-learn 
  * **Deep Learning:** PyTorch 
